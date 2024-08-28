@@ -1,4 +1,4 @@
-todo.
+CMD To-Do List.
 "new" to begin task
 "end" to end
 "zero", "0" priority zero
